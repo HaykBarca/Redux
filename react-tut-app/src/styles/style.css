@@ -1,0 +1,16 @@
+.red {
+  color: red;
+}
+
+th {
+  text-align: left;
+}
+
+.container {
+  width: 275px;
+  margin: 0 auto;
+}
+
+.searchbar-container {
+  margin-bottom: 10px;
+}
